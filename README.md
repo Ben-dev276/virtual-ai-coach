@@ -34,3 +34,6 @@ un système de suivi d’exercices avec votre webcam:
     MediaPipe (module mediapipe) pour la détection de pose en temps réel (pose estimation). MediaPipe Pose fournit les coordonnées 3D approximatives d’une vingtaine de landmarks (points clés) sur le corps.
 
     NumPy pour les calculs vectoriels sur les points clés.
+
+## Documentation et Développement
+  https://docs.google.com/document/d/1I0t6MaOxJ94KUO3kbdNoP-yc5p86Vt0bRTbz3bye8Fc/edit?usp=sharing
